@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c3jatcghaiq3u"]
+
+[ext_resource type="Script" path="res://Scripts/LSystemUser.gd" id="1_3fb8p"]
+
+[node name="LSystemUser" type="Node2D"]
+script = ExtResource("1_3fb8p")
